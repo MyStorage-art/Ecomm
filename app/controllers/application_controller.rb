@@ -1,0 +1,8 @@
+class ApplicationController < ActionController::Base
+  include Pagy::Backend
+
+#   STRIPE_SECRET_KEY=sk_test_51PyRe8KYXg577AEZodAbPtvu3LUPlPL5fM1iOOwjTvkTgXCL6OIevvtRcNRWglvuDqPAaJKJ05YH5zWhE7EPzSm700WeelSXkm
+# STRIPE_PUBLISHABLE_KEY=pk_test_51PyRe8KYXg577AEZKGJE8fNVIVgm3toSwKJDhcJPRXQA61sYQFrcl0xwwBjTNrwqxPQ2HflJsPs7eoTsLGuvJULq00JNHXEzab
+# 
+#WEbhook = whsec_e9677ad4f1f6f342bb8965ff56f84cd85f4c2d2814325443598a5da406c4c4cd
+end
